@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @jerson8a
-- 👀 I’m interested in web and mobile development
-- 🌱 I’m currently learning nodejs
-- 💞️ I’m looking to collaborate on mobile apps, startups
+- Data Engineer and Full Stack Developer
+- Javascript (Angular, React, NodeJS), Ionic, SQL, C# .NET
 - 📫 You can contact me here: jerson.ochoab@gmail.com
